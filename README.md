@@ -132,6 +132,9 @@ Place these files exactly here:
 
 If files are missing or broken, the app will continue running and display a friendly message instead of crashing during playback.
 
+For a quick guide on replacing placeholder audio and verifying file sizes, see:
+- `AUDIO_SETUP.md`
+
 ---
 
 ## GitHub Portfolio Explanation
